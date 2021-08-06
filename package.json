@@ -1,0 +1,20 @@
+{
+  "name": "Express.js-Note-Taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msowers72/Express.js-Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msowers72/Express.js-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/msowers72/Express.js-Note-Taker#readme"
+}
