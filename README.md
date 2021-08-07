@@ -19,15 +19,18 @@ msowers72
 The application has three main functions. The application can write, save and delete notes.
 
 ## Description:
-Generate a professional README using the command-line
-
+There are many demands own todays busniness owner. For example, the owner of a business needs to track; pricing,
+competitiveness, expansion, marketing, inventory, financing and salaries. This note taker application will aid 
+a business owner in all of these task. The application uses and express backend to save and retrieve note data from a
+JSON file.
+ 
 ## Technologies
-* STEP 1: Set-up GitHub repo
-* STEP 2: Create a project folder using the command-line
-* STEP 3:  Use Git-Clone to link your folder to GitHub
-* STEP 4: Download the inquier package and node-modules
-* STEP 5: Create your index.js file and create the code required to generate the README
-* STEP 6: Generate the README from the terminal    
+* JavaScript
+* HTML
+* CSS
+* Node.js
+* Express.js
+* npm modules
 
 ## Usage
 The application will be used to generate a professional README for various projects
