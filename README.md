@@ -32,9 +32,6 @@ JSON file.
 * Express.js
 * npm modules
 
-## Usage
-The application will be used to generate a professional README for various projects
-
 ## Licenses 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- ![Tux, the Linux mascot](https://img.shields.io/badge/License-MIT-green) -->
