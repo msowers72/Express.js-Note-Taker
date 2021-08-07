@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/msowers72/Express.js-Note-Taker/issues"
   },
-  "homepage": "https://github.com/msowers72/Express.js-Note-Taker#readme"
+  "homepage": "https://github.com/msowers72/Express.js-Note-Taker#readme",
+  "dependencies": {
+    "json": "^11.0.0"
+  }
 }
