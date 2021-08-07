@@ -10,7 +10,7 @@
 
 
 ## GitHub Username
-msowers72
+[GitHub](https://github.com/msowers72/Team-Profile-Generator)
 
 ## Email
 <msowers72@yahoo.com>
