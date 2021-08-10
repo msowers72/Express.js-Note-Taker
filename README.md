@@ -19,7 +19,7 @@
 The application has three main functions. The application can write, save and delete notes.
 
 ## Description:
-There are many demands own todays busniness owner. For example, the owner of a business needs to track; pricing,
+There are many demands on todays busniness owner. For example, the owner of a business needs to track; pricing,
 competitiveness, expansion, marketing, inventory, financing and salaries. This note taker application will aid 
 a business owner in all of these task. The application uses and express backend to save and retrieve note data from a
 JSON file.
